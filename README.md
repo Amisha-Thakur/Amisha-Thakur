@@ -1,9 +1,4 @@
 <h1 align="center"> नमस्ते <img src="https://c.tenor.com/eYRNL1In-ooAAAAM/namaste-covid.gif" width="35px" height="42"> visitor, Thanks for visiting </h1>
-<h3 align="center">I am a Java backend developer and a competitive programmer from India <img src="https://1.bp.blogspot.com/-kP6bmmixhvg/YDbA3kZ-75I/AAAAAAAA4Os/YS5VBD0fGnMgMteNDso4OWSsD-alvMyhgCLcBGAsYHQ/s0/Flag_of_India.gif" width="50px" height="32"></h3>
-
-<p align="center">
-<a href="#" ><img width="800" height="auto" src="https://github.com/divyamrai28/divyamrai28/blob/main/Divyam%20Rai.gif?raw=true" height="175px"/></a>
-</p>
 
 <p align="center">
 <img src="https://i.pinimg.com/originals/c2/e0/f9/c2e0f9e5e4386072d85e837a61fc654e.gif" width="50" /> <b><i align="center">Thought : "Do not go where the path may lead, go instead where there is no path and leave a trail!!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
@@ -11,20 +6,19 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Silkscreen&pause=400&color=34BA7A&width=435&lines=Hello%2C+my+name+is+Divyam+Rai.;I'm+a+Java+Backend+Developer;I+%E2%9D%A4+competitive+programming;I+%E2%9D%A4+DSA)](https://git.io/typing-svg) </div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Silkscreen&pause=400&color=34BA7A&width=435&lines=Hello%2C+my+name+is+Amisha+Thakur.;I'm+working+at+Oracle+Cerner;I+%E2%9D%A4+programming;I+%E2%9D%A4+travelling)](https://git.io/typing-svg) </div>
 
-<img src="https://miro.medium.com/max/850/1*IRGHmiGsa16stedQvIaZfw.gif" align="right" alt="Coder GIF" width="460" height="300">
+<img align="right" height="270px" alt="GIF" src="https://camo.githubusercontent.com/5ff9182d12e799168a3bb67b88df7388ae08ede3/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966" /> 
 
 <div>
     
 ## 🙋‍♂️ About Me
 - 🔭 I might currently be **sleeping😴** or **working on my laptop.👨‍💻**
-- 🌱 Working as **Backend Software Engineer @ HCL Technologies.💻**
+- 🌱 Working as **Change Implementation Analyst @ Oracle Cerner💻**
 - 💬 Ask me about 
-    **♛Chess**, **💻Coding/DSA**, **🚗Cars/Bikes**, **👨‍💻New Tech**,
-    **🎵Music**, **👨‍🚀Astronomy (I am an Astrophile ⭐️)**
-- 😄 Pronouns: He/Him 😌.
-- 📫 How to reach me:  **divyamrai2811@gmail.com**
+     **💻Coding**, **👨‍💻New Tech**, **🎵Music, **👨‍Movies**,****
+- 😄 Pronouns: She/Her/Hers 😌.
+- 📫 How to reach me:  **amishathakur209@gmail.com**
     
 </div>
 
@@ -33,7 +27,7 @@
 </span>
 
 </br>
-    
+
 ## 🚀 Languages and Tools: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px height="38">
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
@@ -50,27 +44,21 @@
 
 </br>
 
-<div align="center">
-
-## <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/leetcode_button_icon_151892.png" width="165px" height="42">
-[![LeetCode Stats](https://leetcard.jacoblin.cool/divyamRai?hide=ranking,width=500&height=330,theme=light,unicorn&font=spacemono&ext=heatmap)](https://leetcode.com/divyamRai)
-</div>
-
 ------
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=divyamrai28&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Amisha-Thakur&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
 </div>
 
 ## Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="38">
 <p align="left">
 
-<a href = "https://in.linkedin.com/in/divyamrai/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://in.linkedin.com/in/amisha-thakur-957b39170/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 </p>
 
 ## Views and Followers ❤
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=divyamrai28">
+    <img src="https://komarev.com/ghpvc/?username=Amisha-Thakur">
 </a>
-<a href="https://github.com/divyamrai28?tab=followers"><img src="https://img.shields.io/github/followers/divyamrai28?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Amisha-Thakur?tab=followers"><img src="https://img.shields.io/github/followers/Amisha-Thakur?label=Followers&style=social" alt="GitHub Badge"></a>
